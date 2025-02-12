@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../codes"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "LOGIN WEBSITE"
+	}
+}
